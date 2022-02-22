@@ -1,0 +1,24 @@
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Kapi')()
+end
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+end
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+end
