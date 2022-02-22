@@ -1,0 +1,1202 @@
+while true do
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1C"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "2B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "3"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "4B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "5"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "6"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "7"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "1A"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = "1B"
+}
+
+game:GetService("ReplicatedStorage").Remotes.SendInfo:FireServer(unpack(args))
+wait(0.1)
+end
