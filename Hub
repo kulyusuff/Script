@@ -3,11 +3,11 @@ local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/kulyusuff/
 local win = lib:Window("Nightly Cheats",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
 
 local tab = win:Tab("Script")
+local tab1 = win:Tab("Oyun")
 local changeclr = win:Tab("UI Rengini Degisdir")
 
 tab:Label("Oyunu Cokertme")
 
-tab1:Label("Oyun")
 
 tab:Button("Kapi Spam", function()
 while true do
@@ -60,6 +60,10 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/
 end
 end)
 
+tab:Button("Hepsi", function()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Hps')()
+end)
+
 tab1:Button("Rejoin", function()
 local ts = game:GetService("TeleportService")
 
@@ -68,10 +72,6 @@ local p = game:GetService("Players").LocalPlayer
  
 game.Players.LocalPlayer:Kick("Rejoin Yapiliyor...")
 ts:Teleport(game.PlaceId, p)
-end)
-
-tab:Button("Hepsi", function()
-loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Hps')()
 end)
 
 changeclr:Colorpicker("UI Rengini Degisdir",Color3.fromRGB(44, 120, 224), function(t)
