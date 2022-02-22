@@ -7,6 +7,8 @@ local changeclr = win:Tab("UI Rengini Degisdir")
 
 tab:Label("Oyunu Cokertme")
 
+tab1:Label("Oyun")
+
 tab:Button("Kapi Spam", function()
 while true do
 wait()
@@ -37,7 +39,35 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/
 loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
 loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
 loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
 end
+end)
+
+tab1:Button("Rejoin", function()
+local ts = game:GetService("TeleportService")
+
+local p = game:GetService("Players").LocalPlayer
+
+ 
+game.Players.LocalPlayer:Kick("Rejoin Yapiliyor...")
+ts:Teleport(game.PlaceId, p)
 end)
 
 tab:Button("Hepsi", function()
