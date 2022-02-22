@@ -1,0 +1,5 @@
+while true do
+wait()
+fireclickdetector(game.Workspace.FNaF.DoorButtons2.DoorButton.ClickDetector)
+fireclickdetector(game.Workspace.FNaF.DoorButtons1.DoorButton.ClickDetector)
+end
