@@ -1,0 +1,49 @@
+local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/kulyusuff/NightlyScripts/main/ui")()
+
+local win = lib:Window("Nightly Cheats",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
+
+local tab = win:Tab("Script")
+local changeclr = win:Tab("UI Rengini Degisdir")
+
+tab:Label("Oyunu Cokertme")
+
+tab:Button("Kapi Spam", function()
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Kapi')()
+end
+end)
+
+tab:Button("Isik Spam", function()
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Ik')()
+end
+end)
+
+tab:Button("Camera Spam", function()
+while true do
+wait()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Camera')()
+end
+end)
+
+tab:Button("Hepsi", function()
+loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Hps')()
+end)
+
+changeclr:Colorpicker("UI Rengini Degisdir",Color3.fromRGB(44, 120, 224), function(t)
+lib:ChangePresetColor(Color3.fromRGB(t.R * 255, t.G * 255, t.B * 255))
+end)
