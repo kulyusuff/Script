@@ -168,10 +168,6 @@ loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/
 end
 end)
 
-tab:Button("Hepsi", function()
-loadstring(game:HttpGet'https://raw.githubusercontent.com/kulyusuff/Script/main/Hps')()
-end)
-
 tab1:Button("Rejoin", function()
 local ts = game:GetService("TeleportService")
 
